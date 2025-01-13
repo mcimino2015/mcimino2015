@@ -26,3 +26,4 @@ Fix typo in README
 Refactor core logic
 Add new utility script
 Refactor core logic
+Tweak margin and padding
