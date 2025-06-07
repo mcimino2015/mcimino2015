@@ -21,3 +21,4 @@ Add new utility script
 Update configuration
 Rewrite function Y
 Remove unused imports
+Fix typo in README
